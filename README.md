@@ -14,7 +14,7 @@ This contains tutorials conducted during the workshop.
 ---
 
 ### [Tests - PDF](https://github.com/somphene/geometric-analysis/Tests%20-%20PDF)
-This contains the PDFs of the questions papers of the four (4) quizzes, midsems, and endsems.
+This contains the test papers.
 
 
 ---
