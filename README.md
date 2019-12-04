@@ -8,10 +8,8 @@ In case you find an error at some point, you may point it to me by mailing me at
 
 ---
 
-### [Assignments - PDF](https://github.com/somphene/geometric-analysis/Assignments%20-%20PDF)
-This contains eleven (11) files in total.  
-It has individual PDFs of all the ten (10) assignments that we were given. (Including the 5 contained in Notes.pdf)  
-The last file is the PDF containing all the assignments together.
+### [Tutorials - PDF](https://github.com/somphene/geometric-analysis/Assignments%20-%20PDF)
+This contains tutorials conducted during the workshop.
 
 ---
 
@@ -29,5 +27,5 @@ This also means that you cannot compile the lecture (and assignment) files indep
 
 ---
 
-### [Assignments - LaTeX](https://github.com/somphene/geometric-analysis/Assignments%20-%20LaTeX), [Tests - LaTeX](https://github.com/somphene/geometric-analysis/Tests%20-%20LaTeX)
+### [Tutorials - LaTeX](https://github.com/somphene/geometric-analysis/Assignments%20-%20LaTeX), [Tests - LaTeX](https://github.com/somphene/geometric-analysis/Tests%20-%20LaTeX)
 
